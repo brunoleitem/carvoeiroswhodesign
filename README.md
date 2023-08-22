@@ -1,6 +1,6 @@
-# Brazilians Who Design
+# Carvoeiros Who Design
 
-![](https://www.dropbox.com/s/x5udk39ad57ayp5/brazilianswhodesignthumb.png?raw=1)
+<img width="1243" alt="image" src="https://github.com/brunoleitem/carvoeiroswhodesign/assets/64634321/d8fd436d-9c0b-47e8-acd2-18d30f951691">
 
 The website is built using Google Spreedsheet, [Next.js](https://nextjs.org/) and deployed at [Vercel](https://vercel.com/).
 
