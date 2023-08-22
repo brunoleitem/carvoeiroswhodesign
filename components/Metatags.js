@@ -12,7 +12,7 @@ export default function MetaTags() {
 
       {/* <!-- Open Graph / Facebook --/> */}
       <meta property="og:type" content="website" />
-      <meta property="og:url" content="http://carvoeiroswho.design" />
+      <meta property="og:url" content="https://carvoeiroswhodesign.vercel.app/" />
       <meta property="og:title" content="Carvoeiros Who Design" />
       <meta
         property="og:description"
@@ -20,12 +20,12 @@ export default function MetaTags() {
       />
       <meta
         property="og:image"
-        content="https://carvoeiroswho.design/img/preview.png"
+        content="https://carvoeiroswhodesign.vercel.app/img/preview.png"
       />
 
       {/* <!-- Twitter --/> */}
       <meta property="twitter:card" content="summary_large_image" />
-      <meta property="twitter:url" content="http://carvoeiroswho.design" />
+      <meta property="twitter:url" content="https://carvoeiroswhodesign.vercel.app/" />
       <meta property="twitter:title" content="Carvoeiros Who Design" />
       <meta
         property="twitter:description"
@@ -33,7 +33,7 @@ export default function MetaTags() {
       />
       <meta
         property="twitter:image"
-        content="https://carvoeiroswho.design/img/preview.png"
+        content="https://carvoeiroswhodesign.vercel.app/img/preview.png"
       />
     </>
   );
