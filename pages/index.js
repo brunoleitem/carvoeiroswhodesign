@@ -16,7 +16,6 @@ export async function getStaticProps() {
       : "https://carvoeiroswhodesign-brunoleitem.vercel.app/";
 
   const res = await fetch(`${origin}/api/designers`);
-  console.log(res)
   const designers = await res.json();
 
   let uniqueExpertise = new Set();
